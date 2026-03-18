@@ -9,9 +9,9 @@ Config.BigBlind = 10
 
 -- Poker table models (add more if needed)
 Config.PokerModels = {
-    `p_pokertable01x`,
-    `p_pokertable02x`,
-    `p_pokertable03x`,
+    `p_tablepoker01x`,
+    `p_tablepoker02x`,
+    `p_tablepoker03x`,
     `p_amb_poker_table01x`,
 }
 
